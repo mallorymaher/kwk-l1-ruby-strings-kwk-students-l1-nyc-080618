@@ -9,4 +9,4 @@ def invitation(guest_name, party_name, date, time, rsvp, host_name)
   #{host_name}"
 end
 
-invitation(Miranda, Mal's Birthday Party, August 22, 6pm, )
+invitation(Miranda, Mal's Birthday Party, August 22, 6pm, August 20, Mal)
